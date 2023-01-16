@@ -1,0 +1,102 @@
+
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    width:1000px;
+    height:1250px;
+    margin: 0;
+    padding: 0;
+    background-image:url("images/Background.png");
+    background-repeat: no-repeat;
+    background-size:1000px 747px ;
+    }
+    
+    .topbar{
+    margin-top:60px;
+    
+    }
+    
+    .logo{
+     margin-left:100px;
+     margin-right: 410px;   
+    }
+    
+    .topright{
+    font-size:18px; 
+    color: grey; 
+    margin-right: 15px; 
+    }
+    
+    .topright img{
+    margin-right:15px;
+    
+    }
+    .topbutton{
+    background-color: black;
+    height:40px;
+    border-radius: 4%;
+    font-size:18px; 
+    color: grey;
+    
+    }
+    
+    .topbutton .get{
+        color: white;
+        font-weight: bold;
+    }
+    
+    .midsection{
+        margin-top:60px;
+    text-align: center;
+    color: rgb(59, 54, 54);
+    }
+    
+    h1{
+    font-size:45px;
+    color: black;
+    font-family:'poppins';
+    }
+    
+    .midsection img{
+    margin-top:60px;
+    width:850px;
+    }
+    
+    .thirdsection{
+        margin-top:60px;
+        margin-left: 100px;
+    }
+    
+    h2{
+        color: black;
+        font-family:'poppins';
+    }
+    .left{
+    text-align: left;
+    width:500px;
+    float: left;
+    color: rgb(59, 54, 54);
+    }
+    
+    .left p{
+    margin-bottom: 15px;
+    }
+    .right{
+    width: 327px;
+    float: left;
+    }
+    .right img{
+    width: 327px;
+    }
+    
+    footer{
+    
+    }
+    
+    .footer a{
+    text-decoration: none;
+    color:rgb(59, 54, 54) ;
+    margin-right: 15px;
+    }
+    
